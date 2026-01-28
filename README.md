@@ -1,11 +1,36 @@
+# Curelystics SaaS Landing Page
 
-  # Responsive SaaS Landing Page
+A premium, high-performance SaaS landing page for Curelystics Technologies, featuring advanced animations, real-time queue simulations, and a modern healthcare aesthetic.
 
-  This is a code bundle for Responsive SaaS Landing Page. The original project is available at https://www.figma.com/design/Kj8PI6O1GHsVur4ohPK1t5/Responsive-SaaS-Landing-Page.
+## Features
 
-  ## Running the code
+- **Intelligent Navigation**: Smooth sliding indicator and scroll-triggered glide transitions.
+- **Live Queue Engine**: Real-time simulation of patient flow and token management.
+- **Custom Medical Animations**: Handcrafted SVG animations for every step of the patient journey.
+- **SaaS First**: Designed explicitly for cloud-based scalability and secure integration.
+- **Fully Responsive**: Optimized for all devices from mobile to desktop.
 
-  Run `npm i` to install the dependencies.
+## Tech Stack
 
-  Run `npm run dev` to start the development server.
-  
+- **React / Vite**
+- **Tailwind CSS**
+- **Framer Motion** (Animations)
+- **Lucide React** (Icons)
+- **EmailJS** (Contact Form)
+
+## Getting Started
+
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+2. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+3. Build for production:
+   ```bash
+   npm run build
+   ```
