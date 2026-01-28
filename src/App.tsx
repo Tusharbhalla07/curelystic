@@ -8,7 +8,7 @@ import { Navigation } from './components/Navigation';
 import { Footer } from './components/Footer';
 import { IconShowcase } from './components/IconShowcase';
 import { TokenQueueDemo } from './components/TokenQueueDemo';
-import { motion } from 'motion/react';
+import { motion } from 'framer-motion';
 
 interface SectionProps {
   children: React.ReactNode;
